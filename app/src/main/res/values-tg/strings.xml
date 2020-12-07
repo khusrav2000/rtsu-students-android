@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RTSU.STUDENTS</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Вожагузар</string>
+    <string name="action_sign_in">Логин</string>
+    <string name="action_sign_in_short">Логин</string>
+    <string name="welcome">"Хуш омадед "</string>
+    <string name="invalid_username">Логин дуруст нест</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Логин ё вожагузар нодуруст!</string>
+    <string name="university_name">Российско-Таджикский (Славянский) университет</string>
+    <string name="login">Логин</string>
+    <string name="password">Гузарвожа</string>
+    <string name="lesson_name">Номи дарс</string>
+    <string name="teacher_name">Номи малим</string>
+    <string name="points">Холҳо</string>
+    <string name="title_points">Холҳо</string>
+    <string name="title_profile">Профил</string>
+    <string name="course_name">Номи дарс</string>
+    <string name="rating_one">РЕЙТИНГ 1</string>
+    <string name="example_rating_points">30/100</string>
+    <string name="rating_two">РЕЙТИНГ 2</string>
+    <string name="example_exam_points">13/20</string>
+    <string name="exam_text">ИМТИҲОН</string>
+    <string name="select_semester">Нимсоларо интихоб кунед</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tnu_student">RTSU.STUDENT</string>
+    <string name="full_name">Номи пурра</string>
+    <string name="faculty">Факултет</string>
+    <string name="specialty">Ихтисос</string>
+    <string name="specialty_and_code">Ихтисос</string>
+    <string name="text_faculty">Факултет</string>
+    <string name="server_not_work">Сервер дастнораст аст.</string>
+    <string name="internet_not_available">Пайвастшавии интернети худро бисанҷед.</string>
+    <string name="error_load_data">Хатоги дар гирифтани маълумот.</string>
+    <string name="traning_form">Шакли хониш</string>
+    <string name="training_form">Шакли хониш</string>
+    <string name="training_level">Сатҳи маълумот</string>
+    <string name="course_and_training_period">Курс / давраи таҳсил</string>
+    <string name="group">Гуруҳ</string>
+    <string name="year_entrance">Соли дохилшави</string>
+    <string name="total_points">ХОЛ / БАҲО</string>
+    <string name="not_courses_information">Маълумот пайдо нашуд.</string>
+    <string name="logout">Баромад</string>
+    <string name="try_again">Аз нав кушиш кунед.</string>
+</resources>

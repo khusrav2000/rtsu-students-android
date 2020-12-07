@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984862902488",
+    "firebase_url": "https://rtsu-students.firebaseio.com",
+    "project_id": "rtsu-students",
+    "storage_bucket": "rtsu-students.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984862902488:android:84d1e541aa38077aacefad",
+        "android_client_info": {
+          "package_name": "tj.rtsu.students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984862902488-6o3upqs7dn8038dfsbe3ekaocp07qqh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYA89p0hPmMne36i4B7qQiidVQMpIyg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984862902488-6o3upqs7dn8038dfsbe3ekaocp07qqh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
